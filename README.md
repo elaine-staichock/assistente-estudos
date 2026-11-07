@@ -4,7 +4,7 @@
 
 Mini-aplicação web de perguntas e respostas: o usuário digita uma dúvida de estudo e a IA generativa (**Google Gemini**) responde na tela.
 
-🔗 **Aplicação online:** https://SEU-APP.onrender.com
+🔗 **Aplicação online:** https://assistente-estudos-tngq.onrender.com/
 🎥 **Vídeo de demonstração:** COLE_O_LINK_AQUI
 
 ## Tecnologias
