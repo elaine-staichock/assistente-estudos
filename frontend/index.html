@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Assistente de Estudos com IA</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <main class="cartao">
+    <h1>📚 Assistente de Estudos</h1>
+    <p class="sub">Faça uma pergunta sobre qualquer matéria e receba uma explicação da IA.</p>
+
+    <form id="form">
+      <label for="pergunta">Sua pergunta</label>
+      <textarea id="pergunta" maxlength="1000" rows="4"
+        placeholder="Ex.: Explique a fotossíntese de forma simples"></textarea>
+      <div class="linha">
+        <span id="contador">0/1000</span>
+        <button type="submit" id="enviar">Perguntar</button>
+      </div>
+    </form>
+
+    <section id="resultado" aria-live="polite" hidden>
+      <h2>Resposta</h2>
+      <div id="resposta"></div>
+    </section>
+  </main>
+  <script src="script.js"></script>
+</body>
+</html>
