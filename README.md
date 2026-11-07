@@ -1,6 +1,6 @@
 # 📚 Assistente de Estudos com IA Generativa
 
-[![CI](https://github.com/SEU_USUARIO/assistente-estudos/actions/workflows/ci.yml/badge.svg)](https://github.com/SEU_USUARIO/assistente-estudos/actions/workflows/ci.yml)
+[![CI](https://github.com/elaine-staichock/assistente-estudos/actions/workflows/ci.yml/badge.svg)](https://github.com/elaine-staichock/assistente-estudos/actions/workflows/ci.yml)
 
 Mini-aplicação web de perguntas e respostas: o usuário digita uma dúvida de estudo e a IA generativa (**Google Gemini**) responde na tela.
 
